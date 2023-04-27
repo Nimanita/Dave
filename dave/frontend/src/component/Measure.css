@@ -1,0 +1,54 @@
+.loginbox{
+    
+    vertical-align: middle;
+    margin:auto;
+    width : 100%;
+    padding-top: 20px;
+    margin-top : 10%;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+   
+    
+}
+.App{
+    margin:auto;
+    justify-content: center;
+    align-content: center;
+}
+.loginbox2{
+
+    vertical-align: middle;
+    margin:auto;
+  
+  
+}
+
+.logininputbox{
+    margin-bottom: 30px;
+}
+.row1{
+    padding-bottom: 20px;
+}
+.submitbtn{
+    margin-bottom: 20px;
+}
+.waistcol1{
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.waistcol2{
+width: fit-content;
+padding-left: 0px;
+}
+
+.waistbtn{
+    margin-top: 20px;
+}
+
+.message{
+    font-size: 30px;
+}
+.heading{
+    margin-bottom: 40px;
+}
